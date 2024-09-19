@@ -3,7 +3,7 @@
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 - 🌱 I’m currently learning **DSA, Web developement**
 
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/akshat-saini-0ba25924b/
+
 
 - 💬 Ask me about **C++,DSA,HTML,CSS,Javascript**
 
