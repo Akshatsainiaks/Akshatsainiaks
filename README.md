@@ -1,69 +1,65 @@
-<!-- Animated Intro -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hey there, I'm <span style="color:#00F7F7;">Akshat Saini</span>
-</h1>
-
+<!-- Header with Gradient Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;DSA+Enthusiast;Tech+Explorer;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=Akshat%20Saini&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Short Intro -->
 <p align="center">
-  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" alt="Coding GIF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;3rd+Year+Computer+Science+Student;Passionate+about+Building+Cool+Things" />
 </p>
 
 ---
 
-### 🌱 About Me  
-- 🎓 **3rd Year Computer Science Student**  
-- 🌱 Currently learning **DSA** and **Full-Stack Web Development**  
-- 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, React, Node.js**  
-- 📫 **Reach me at:** akshatsaini336@gmail.com  
+## 👨‍💻 About Me
+- 🎓 **B.Tech 3rd Year — Computer Science & Engineering**
+- 🌱 Currently exploring **DSA**, **React**, **Node.js**, and **Kubernetes**
+- 🛠 I enjoy **turning ideas into real-world applications**
+- 🎯 2025 Goal: Deploy all my major projects on **AWS with CI/CD**
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshat-saini-0ba25924b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://www.instagram.com/_.akshat_saini._/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-  <a href="mailto:akshatsaini336@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="https://www.linkedin.com/in/akshat-saini-0ba25924b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:akshatsaini336@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_.akshat_saini._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💻 Languages & Tools  
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,html,js,nodejs,react,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,cpp,c,git,github,mongodb" />
 </p>
 
 ---
 
-### 📊 GitHub Stats (Animated)  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatsainiaks&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsainiaks&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsainiaks&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatsainiaks&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsainiaks&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies  
+## 🔥 Streak & Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshatsainiaks&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsainiaks&theme=react&hide_border=true&background=0D1117" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshatsainiaks&theme=discord&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake  
+## 🐍 My GitHub Activity Snake
 <p align="center">
-  <img src="https://github.com/akshatsainiaks/akshatsainiaks/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/akshatsainiaks/akshatsainiaks/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 🚀 Fun Fact  
+<!-- Footer with Wave Animation -->
 <p align="center">
-  I believe in **learning by building** — my best projects come from solving my own problems.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" />
 </p>
