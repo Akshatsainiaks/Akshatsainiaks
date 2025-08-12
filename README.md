@@ -1,6 +1,11 @@
-<!-- Profile Banner -->
+<!-- Animated Intro -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hey there, I'm <span style="color:#00F7F7;">Akshat Saini</span>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Saini;Full-Stack+Web+Developer;3rd+Year+Computer+Science+Student;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;DSA+Enthusiast;Tech+Explorer;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -33,20 +38,20 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats (Animated)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatsainiaks&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsainiaks&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatsainiaks&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsainiaks&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsainiaks&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsainiaks&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshatsainiaks&theme=tokyonight&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshatsainiaks&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
 
 ---
