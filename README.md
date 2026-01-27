@@ -15,9 +15,9 @@ Hi 👋 I’m **Akshat Saini**, a **Full-Stack Developer** passionate about buil
 
 - 🚀 Specialized in **MERN Stack Development**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
-- ⚙️ Actively learning **DevOps, Docker, and Cloud technologies**
+- ⚙️ Hands-on with **DevOps tools & cloud fundamentals**
 - 🧼 Focused on **clean code, system design, and best practices**
-- 📚 Curious learner who enjoys solving real-world problems
+- 📚 Curious learner who enjoys solving real-world engineering problems
 
 📬 **Email:** `akshatsaini336@gmail.com`
 
@@ -56,28 +56,21 @@ Hi 👋 I’m **Akshat Saini**, a **Full-Stack Developer** passionate about buil
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🧰 Tools & DevOps
+### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws" />
 </p>
 
----
+- 🐳 Containerization using **Docker**
+- ⚙️ Basic orchestration with **Kubernetes**
+- ☁️ Familiar with **AWS services & deployment workflows**
+- 🖥️ Comfortable working in **Linux environments**
+- 🔄 Understanding of **CI/CD concepts**
 
-## 🚀 Featured Project  
-
+### 🧰 Tools & Version Control
 <p align="center">
-  <a href="https://fixora-tawny.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsainiaks&repo=Fixora&theme=react&bg_color=0,6a11cb,2575fc&text_color=fff&title_color=fff&hide_border=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
-
-**Fixora – Ticket & Issue Management System**
-- 🔐 Role-based authentication (Admin / User)
-- 🛡️ Secure JWT-based authorization
-- 📊 Interactive dashboard with protected routes
-- ⚡ Scalable full-stack architecture
-
-> 📌 *More real-world projects coming soon…*
 
 ---
 
