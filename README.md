@@ -11,13 +11,13 @@
 
 ## 👨‍💻 About Me  
 
-Hi 👋 I’m **Akshat Saini**, a passionate **Full-Stack Developer** who loves building scalable, efficient, and clean web applications.
+Hi 👋 I’m **Akshat Saini**, a **Full-Stack Developer** passionate about building **scalable, secure, and high-performance web applications**.
 
-- 🚀 Strong focus on **MERN Stack Development**
-- 🧠 Regularly practicing **Data Structures & Algorithms**
-- ⚙️ Exploring **DevOps, Docker & Cloud**
-- 🧼 Believe in **clean code, system design & performance**
-- 📚 Always learning and experimenting with new technologies
+- 🚀 Specialized in **MERN Stack Development**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- ⚙️ Actively learning **DevOps, Docker, and Cloud technologies**
+- 🧼 Focused on **clean code, system design, and best practices**
+- 📚 Curious learner who enjoys solving real-world problems
 
 📬 **Email:** `akshatsaini336@gmail.com`
 
@@ -41,29 +41,29 @@ Hi 👋 I’m **Akshat Saini**, a passionate **Full-Stack Developer** who loves 
 
 ## 🛠 Tech Stack & Skills  
 
-### 💻 Languages & Core
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🧰 Tools & Version Control
+### 🧰 Tools & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Project  
 
 <p align="center">
   <a href="https://fixora-tawny.vercel.app/" target="_blank">
@@ -71,12 +71,13 @@ Hi 👋 I’m **Akshat Saini**, a passionate **Full-Stack Developer** who loves 
   </a>
 </p>
 
-🔹 **Fixora** – Full-stack ticket & issue management system  
-🔹 Role-based authentication (Admin/User)  
-🔹 Secure JWT authentication  
-🔹 Clean dashboard UI with protected routes  
+**Fixora – Ticket & Issue Management System**
+- 🔐 Role-based authentication (Admin / User)
+- 🛡️ Secure JWT-based authorization
+- 📊 Interactive dashboard with protected routes
+- ⚡ Scalable full-stack architecture
 
-> 📌 *More projects coming soon…*
+> 📌 *More real-world projects coming soon…*
 
 ---
 
