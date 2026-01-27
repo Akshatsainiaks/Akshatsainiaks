@@ -11,8 +11,8 @@
 
 ## 👨‍💻 About Me  
 - 🚀 Passionate about **building scalable web apps**  
-- 💡 Focused on **MERN stack, DSA, and modern UI/UX**  
-- 🤝 Open-source enthusiast & lifelong learner  
+- 💡 Focused on **MERN stack, DSA, and DevOps**  
+- 🤝 DevOps enthusiast & lifelong learner  
 - 📬 Reach me at **akshatsaini336@gmail.com**
 
 ---
