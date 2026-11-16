@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A11CB&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Specialist;DSA+Enthusiast;DevOps+Learner;Clean+Code+Advocate;Always+Building+%26+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A11CB&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Specialist;DSA+Enthusiast;DevOps+Learner;Always+Building+%26+Learning" />
 </p>
 
 ---
